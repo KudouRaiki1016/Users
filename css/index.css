@@ -9,6 +9,22 @@ header {
 h1 {
     color: #f4005f;
 }
+
+dl {
+    margin-top: 50px;
+}
+dt {
+    margin-top: 30px;
+    color: deeppink;
+}
+h2 {
+    margin-top: 30px;
+    color: deeppink;
+}
+button {
+    margin-top: 30px;
+}
+
 p {
     font-weight: bold;
 }
